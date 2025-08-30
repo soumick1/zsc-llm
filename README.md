@@ -1,4 +1,4 @@
-# zsc-llm — Notebook‑accurate Hierarchical Zero‑Shot Classification
+# zsc-llm — Zero-shot Hierarchical Classifier for LLMs
 
 > Build a **label tree** from your label names/descriptions and classify texts **level‑by‑level** with fast embedding similarity. Clean Python API + simple CLI. Works with **TF‑IDF** (default) or **Sentence‑Transformers**.
 
