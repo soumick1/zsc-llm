@@ -1,3 +1,5 @@
+![Python 3.9](https://img.shields.io/badge/python-3.10-green.svg)
+
 # zsc-llm — Zero-shot Hierarchical Classifier for LLMs 
 
 > zsc-llm proves useful when there are a large number of textual classes which semantically are very near to each other.
