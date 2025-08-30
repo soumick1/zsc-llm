@@ -20,14 +20,13 @@
 
 ```bash
 # clone your repo (or unzip the folder)
-git clone <your-repo-url>.git
-cd zsc-llm
+git clone https://github.com/soumick1/zsc-llm
 
 # install in editable mode into the current Python environment
-pip install -e .
+pip install -e zsc-llm
 ```
 
-> **Colab/Jupyter tip**: run `pip install -e .` **inside a notebook cell** so it installs into the same kernel.
+> **Colab/Jupyter tip**: run `cd zsc-llm` and `pip install -e .` **inside a notebook cell** so it installs into the same kernel.
 >
 > If you choose not to install, you can temporarily add the path:
 > ```python
