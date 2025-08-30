@@ -5,6 +5,7 @@
 > zsc-llm proves useful when there are a large number of textual classes which semantically are very near to each other.
 > Build a **label tree** from your label names/descriptions and classify texts **level‑by‑level** with fast embedding similarity. Clean Python API + simple CLI. Works with **TF‑IDF** (default) or **Sentence‑Transformers**.
 
+![zsc_demo](zsc_demo.gif)
 ---
 
 ## ✨ Features
