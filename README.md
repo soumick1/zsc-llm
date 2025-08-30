@@ -255,10 +255,3 @@ zsc-llm/
 
 MIT — see `LICENSE`.
 
----
-
-## 🙏 Citation
-
-If you use this code, a simple citation in your README or docs is appreciated:
-
-> *zsc‑llm: Notebook‑accurate hierarchical zero‑shot classification (TF‑IDF/ST embeddings, per‑level routing), 2025.*
