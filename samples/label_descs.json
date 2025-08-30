@@ -1,0 +1,21 @@
+{
+  "Billing": "charges, fees, refunds, adjustments, statements, interest, taxation",
+  "Refunds": "request or status of refunds, reversals, chargebacks",
+  "Disputes": "dispute a transaction, incorrect billing, merchant issues",
+  "Fees": "monthly fees, ATM fees, foreign exchange fees, brokerage commissions",
+  "Statements": "download statements, line-item explanations, interest charged",
+  "TaxDocs": "tax certificates, 1099/INT, W-8BEN, capital gains/loss statements",
+  "TechSupport": "app or website problems, login, authentication, device issues",
+  "LoginIssues": "password reset, two-factor auth, locked account",
+  "AppBugs": "crashes, slow, update problems, notifications not working",
+  "CardIssues": "card not working at ATM or POS, declines",
+  "Connectivity": "cannot connect, network timeouts, proxy/VPN issues",
+  "AccountClosure": "close account, terminate service, transfer out, exit",
+  "Opening": "open account, eligibility, required documents, minimum balance",
+  "Limits": "increase/decrease limits, wire/ACH caps, withdrawal/transfer limits",
+  "Profile": "update address, phone, email, name; re-KYC; document uploads",
+  "Trading": "place orders, order types, execution, after-hours, margin",
+  "Dividends": "dividend schedules, DRIP enrollment, withholding tax",
+  "CorporateActions": "splits, mergers, rights issues, de-listing, proxy voting",
+  "Research": "screeners, analyst ratings, news feeds, reports access"
+}
