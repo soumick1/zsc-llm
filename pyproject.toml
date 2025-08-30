@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "zsc-llm"
+version = "0.2.0"
+description = "Zero-shot hierarchical classification (notebook methodology)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "Soumick Sarker"}]
+dependencies = [
+  "numpy>=1.23",
+  "scikit-learn>=1.3",
+  "sentence-transformers>=2.2.2",
+]
+
+[project.scripts]
+zsc-llm = "zsc_llm.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/zsc_llm"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/zsc_llm", "README.md", "LICENSE", "samples"]
