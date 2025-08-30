@@ -207,10 +207,7 @@ zsc-llm predict-notebook \
 
 ## 🧪 Dev & testing
 
-```bash
-# run tests
-pytest -q
-```
+# Download the samples folder which contains test cases
 
 Project layout:
 ```
