@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- **Notebook‑accurate**: mirrors the methodology you prototyped (build hierarchy → route per level)
+- **Hierarchical Classification**: build hierarchy → route per level
 - **Plug & play**: start with just **label names** (descriptions optional, but recommended)
 - **Interpretable**: returns the **full decision path** through the tree to the leaf class
 - **Flexible embeddings**: TF‑IDF (CPU, fast) or Sentence‑Transformers (GPU‑ready)
